@@ -9,6 +9,6 @@ class Main {
     numero = entrada.nextInt();
     System.out.println("El numero ingresado es: "+numero);
     System.out.println("El dia 1 de Diciembre ya tengo que esta trabajando en Java con el Framework Spring");
-      
+      System.out.println("Que bonito es lo bonito");
   }
 }
